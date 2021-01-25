@@ -1,0 +1,5 @@
+# IDE settings
+.idea
+
+# notebook checkpoints
+.ipynb_checkpoints/
