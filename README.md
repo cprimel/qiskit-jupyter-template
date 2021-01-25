@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/Qiskit/qiskit.org/blob/3633ec63a67ca44b2ec293682ec06535e253a633/static/images/qiskit-logo.png" height="100px" alt="qiskit-logo"/>
-<img src="media/baseline_add_black_18dp.png" height="36" align="baseline" alt="add-symbol"/>
+<img src="media/baseline_add_black_18dp.png" height="72" alt="add-symbol"/>
 <img src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg" height="100px" alt="jupyter-logo"/>
  </p>
 <h1 align="center">qiskit-jupyter-template</h1>
